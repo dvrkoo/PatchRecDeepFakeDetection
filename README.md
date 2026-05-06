@@ -10,7 +10,7 @@ Deepfake detectors often achieve near-perfect accuracy in-domain but fail under 
 
 ## Figure 1
 
-Figure 1 will be added soon.
+![PatchRec workflow](img/workflow_final-1.png)
 
 ## TODO
 
